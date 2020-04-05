@@ -26,7 +26,7 @@ requests库 官方文档：http://cn.python-requests.org/
 
 **第二次课程作业**：阅读 requests库 官方文档前面几章的文档
 
-beautifulsoup库 官方文档：https://beautifulsoup.readthedocs.io/
+beautifulsoup4库 官方文档：https://beautifulsoup.readthedocs.io/
 
 **第三次课程作业**：阅读 beautifulsoup库 官方文档前面几章的文档
 
